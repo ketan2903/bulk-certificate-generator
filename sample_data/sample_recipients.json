@@ -1,0 +1,43 @@
+{
+  "event_name": "Executive Masterclass in Generative AI & Cloud Architecture",
+  "organization_name": "Google Cloud & DeepMind Academy",
+  "issuer_name": "Dr. Alan Turing",
+  "issuer_title": "Head of Engineering & Education",
+  "recipients": [
+    {
+      "name": "Sarah Connor",
+      "email": "sarah.connor@example.com",
+      "issue_date": "October 8, 2026",
+      "grade_or_score": "High Distinction (98%)",
+      "custom_message": "Excellence in AI system design and neural architecture deployment."
+    },
+    {
+      "name": "Bruce Wayne",
+      "email": "bruce.wayne@waynecorp.com",
+      "issue_date": "October 8, 2026",
+      "grade_or_score": "Distinction (92%)",
+      "custom_message": "Demonstrated mastery in autonomous computing infrastructure."
+    },
+    {
+      "name": "Tony Stark",
+      "email": "tony.stark@starkindustries.com",
+      "issue_date": "October 8, 2026",
+      "grade_or_score": "Top Honors (100%)",
+      "custom_message": "Outstanding innovation in distributed intelligence systems."
+    },
+    {
+      "name": "Ada Lovelace",
+      "email": "ada.lovelace@pioneers.org",
+      "issue_date": "October 8, 2026",
+      "grade_or_score": "Distinction (95%)",
+      "custom_message": "Excellence in algorithmic problem solving and verification."
+    },
+    {
+      "name": "Peter Parker",
+      "email": "peter.parker@dailybugle.net",
+      "issue_date": "October 8, 2026",
+      "grade_or_score": "Merit (88%)",
+      "custom_message": "Great potential and dedication in deep learning fundamentals."
+    }
+  ]
+}
